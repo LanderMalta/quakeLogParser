@@ -94,5 +94,4 @@ Para executar a rotina de testes digite o comando:
 ```  
 npm test
 ```
-
-
+Os testes podem ser vistos diretamente [aqui](https://travis-ci.org/LanderMalta/quakeLogParser)
