@@ -1,6 +1,9 @@
 Quake 3 Arena Log API
 ===========
 
+
+[![Build Status](https://travis-ci.org/LanderMalta/quakeLogParser.svg?branch=master)](https://travis-ci.org/LanderMalta/quakeLogParser)
+
 ## Sobre
 Essa é uma pequena API no modelo RESTFul desenvolvida em NodeJS com base de dados MongoDb.
 
